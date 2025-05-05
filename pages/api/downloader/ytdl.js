@@ -1,3 +1,4 @@
+import { CREATOR } from "../../../settings.js";
 import axios from "axios";
 import FormData from "form-data";
 import * as cheerio from "cheerio";
